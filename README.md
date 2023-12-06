@@ -1,3 +1,3 @@
 # Calculadora basica
 
-![Captura]("./src/img/desing-desktop.png")
+![Captura](./src/img/desing-desktop.png)
